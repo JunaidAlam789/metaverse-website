@@ -41,7 +41,7 @@ const Footer = () => (
           <h4 className="font-extrabold text-[24px] text-white">METAVERUS</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2023 - 2024 Metaversus. All rights reserved. Made by
-            Jahanzaib Tayyab
+            Mr Jahanzaib Tayyab
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (
